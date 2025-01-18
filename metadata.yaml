@@ -1,0 +1,36 @@
+_repo: Schoolgirl-rivals_74919
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Hickling, P. B. (Percy Bell)
+    alias: Hickling, Percy Bell
+    birthdate: 1876
+    deathdate: 1951
+    gutenberg_agent_id: '57726'
+    url: http://www.gutenberg.org/2009/agents/57726
+creator:
+  author:
+    agent_name: Page, Brenda
+    gutenberg_agent_id: '57725'
+    url: http://www.gutenberg.org/2009/agents/57725
+description: ''
+gutenberg_issued: '2024-12-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74919'
+language: en
+pgterms:marc905: 20241211190312page
+pgterms:marc906: '1927'
+pgterms:marc907: GB
+production_note: Al Haines
+publication_note: '  $aLondon :$bCassell and Company, Limited, $c1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Boarding schools -- England -- Juvenile fiction'
+- !lcsh 'Girls -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: Schoolgirl rivals
+url: http://www.gutenberg.org/ebooks/74919
