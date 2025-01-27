@@ -8,12 +8,17 @@ contributor:
     deathdate: 1951
     gutenberg_agent_id: '57726'
     url: http://www.gutenberg.org/2009/agents/57726
+covers:
+- cover_type: archival
+  image_path: 74919-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Page, Brenda
     gutenberg_agent_id: '57725'
     url: http://www.gutenberg.org/2009/agents/57725
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74919#Schoolgirl-rivals
 gutenberg_issued: '2024-12-16'
 gutenberg_type: Text
 identifiers:
